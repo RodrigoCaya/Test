@@ -1,5 +1,3 @@
-# Test
-
 # Desafío: Crear un semáforo
 ## Intento N°1
 
