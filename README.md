@@ -1,7 +1,7 @@
 # Desafío: Crear un semáforo
 ## Intento N°1
 
-Dentro del archivo 'semaforo.js' se encuentran todos mis intentos fallidos para crear la lógicadel semáforo. Primero se intentó pintar, luego esperar y luego despinar de manera separada, también se intentó realizar de manera conjunta. Para que la luz del semáforo espere, se intentó utilizar funciones asíncronas con 'await'.
+Dentro del archivo 'semaforo.js' se encuentran todos mis intentos fallidos para crear la lógica del semáforo. Primero se intentó pintar, luego esperar y luego despinar de manera separada, también se intentó realizar de manera conjunta. Para que la luz del semáforo espere, se intentó utilizar funciones asíncronas con 'await'.
 
 ## Solución
 
